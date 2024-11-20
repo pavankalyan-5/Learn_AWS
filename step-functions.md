@@ -1,4 +1,4 @@
-### Step Function
+# Step Function
 
 - Server-less function orchestrator that makes it easy to sequence AWS lambda functions & 
     multiple AWS services into business-critical applications.
